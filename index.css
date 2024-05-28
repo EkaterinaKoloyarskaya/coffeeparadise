@@ -1,0 +1,30 @@
+body {
+      background-color: #FFFFFF;
+      font-family: sans-serif;
+      }
+
+h1 {
+    border-bottom: 1px solid black;
+    }
+
+h2 {
+    background-color: white;
+    color: deeppink;
+    }
+
+.company {line-height: 1.5em;
+          font-style: italic;
+          font-family: Georgia, Times New Roman, Times, serif;
+          color: #000000;  
+          border-color: white; 
+          border-width: 3px;
+          border-style: dashed;
+          border-radius: 25px;
+          background-color: #FFE4E1;
+          padding: 50px;
+          margin: 30px;
+          margin-right: 200px;
+          background-image: url(photos/background.gif);
+          background-repeat: no-repeat;
+          background-position: top left;
+           }
